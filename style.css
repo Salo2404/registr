@@ -1,0 +1,57 @@
+.container{
+    width: 399px;
+    height: 265px;
+    background-color: #82ccee;
+    border: 3px solid #82ccee; 
+    display: inline-block;
+    
+  }
+  
+  h1{
+    color: white;
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: 1.5em;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid white;
+    margin-bottom: 30px;
+  }
+  
+  div{display:inline-block;}
+  form{
+    padding-left: 20px;
+    color: white;
+    font-family: sans-serif;
+    text-align: left; 
+   
+  }
+  
+  
+  input[type="email"] {
+    width: 320px;
+    margin-bottom:20px;
+    
+  }
+  
+  input[type="number"] {
+    width: 150px;
+    margin-bottom: 10px;
+  }
+  
+  input[ type="submit"]{
+    color: azure;
+    background-color: #2f9b9b;
+    border: none;
+    padding: 5px 10px;
+    width: 80px;
+    margin-top: 20px;
+    
+  }
+.desc{
+    font-size: small;
+}
+
+  
+  
+  
